@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HARDOX-STUDIO/.github/main/profile/assets/banner.png" alt="HARDOX STUDIO: software, mechanical, electronics, electrical" width="100%">
+<img src="https://raw.githubusercontent.com/RAKIZA-STUDIO/.github/main/profile/assets/banner.png" alt="RAKIZA STUDIO: software, mechanical, electronics, electrical" width="100%">
 
 **A development and innovation studio. We build solutions across software, mechanical, electronics and electrical work.**
 
@@ -19,12 +19,12 @@
 
 ## Featured project
 
-### [Send to Creality](https://github.com/HARDOX-STUDIO/blender-send-to-creality)
+### [Send to Creality](https://github.com/RAKIZA-STUDIO/blender-send-to-creality)
 
 A one-button Blender add-on that merges your parts into one printable solid, sets the height, checks the mesh and sends it to Creality Print.
 
 <div align="center">
-<a href="https://github.com/HARDOX-STUDIO/blender-send-to-creality">
-<img src="https://raw.githubusercontent.com/HARDOX-STUDIO/blender-send-to-creality/main/docs/demo.gif" alt="Sending a model from Blender to Creality Print" width="80%">
+<a href="https://github.com/RAKIZA-STUDIO/blender-send-to-creality">
+<img src="https://raw.githubusercontent.com/RAKIZA-STUDIO/blender-send-to-creality/main/docs/demo.gif" alt="Sending a model from Blender to Creality Print" width="80%">
 </a>
 </div>
