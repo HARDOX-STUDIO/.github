@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="HARDOX STUDIO: software, mechanical, electronics, electrical" width="100%">
+<img src="https://raw.githubusercontent.com/HARDOX-STUDIO/.github/main/profile/assets/banner.png" alt="HARDOX STUDIO: software, mechanical, electronics, electrical" width="100%">
 
 **A development and innovation studio. We build solutions across software, mechanical, electronics and electrical work.**
 
